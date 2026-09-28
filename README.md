@@ -1,4 +1,4 @@
-# SmartForm + Vite + Vue 3
+# Vue 3 (Vite) contact form — Formspree alternative with AI spam filtering
 
 Contact form for a Vite + Vue 3 app, posting JSON to SmartForm AI.
 
